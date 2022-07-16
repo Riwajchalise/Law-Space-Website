@@ -2,6 +2,7 @@
 
 backend:
   name: github
+  repo: JAHqu2zyPA/new_blog # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
