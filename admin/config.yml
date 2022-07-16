@@ -1,7 +1,7 @@
 # config.yml
 
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
@@ -21,8 +21,8 @@ collections:
         name: 'author',
         widget: 'relation',
         collection: 'authors',
-        display_fields: [display_name],
-        search_fields: [display_name],
+        display_fields: [username],
+        search_fields: [username],
         value_field: 'name',
       }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
