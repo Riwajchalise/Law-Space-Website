@@ -24,7 +24,7 @@ collections:
         collection: 'authors',
         display_fields: [username],
         search_fields: [username],
-        value_field: 'name',
+        value_field: 'title',
       }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
