@@ -33,7 +33,7 @@ collections:
     folder: '_authors/'
     create: true
     editor:
-    preview: false
+      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
       - { label: 'Short Name', name: 'name', widget: 'string' }
