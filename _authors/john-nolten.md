@@ -2,6 +2,7 @@
 title:          John Nolten
 username:       john
 default:        true
+featured:       true
 image:          https://pbs.twimg.com/profile_images/974603248119222272/N5PLzyan.jpg
 bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email:          me@mysite.com

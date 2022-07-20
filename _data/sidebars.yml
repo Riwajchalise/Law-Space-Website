@@ -2,7 +2,7 @@
 page:
   - widget: recent
     title: RECENT ARTICLES
-    count: 8
+    count: 9
 
   - widget: categories
     title: CATEGORIES

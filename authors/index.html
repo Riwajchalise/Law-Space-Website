@@ -1,0 +1,63 @@
+---
+layout: default
+featured: true
+latest_title: The Authors
+---
+
+{% if page.title %}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove-top">
+    <h1 class="section-title uk-text-center uk-margin">{{ page.title | escape }}</h1>
+    <hr class="uk-margin-remove">
+  </div>
+{% endif %}
+
+
+<div class="uk-container uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">{{ page.latest_title | default: 'The Authors' }}</h2>
+  <hr class="uk-margin-remove">
+</div>
+
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+
+  {% for author in site.authors %}
+
+  <article class="uk-card uk-grid-collapse uk-margin-large" data-uk-grid>
+    <div class="uk-width-1-3@s uk-card-media-left media-1-3 uk-cover-container">
+      {% if author.image %}
+        <a href="{{ author.url | relative_url }}">
+          <img src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.uploads | absolute_url }}{{ author.image }}{% endif %}" alt="{{ author.title }}" data-uk-cover>
+          <canvas width="600" height="450"></canvas>
+        </a>
+      {% endif %}
+    </div>
+    <div class="uk-width-expand@s">
+        <div class="uk-card-body">
+          {% if author.id and author.categories %}
+            <div class="uk-text-uppercase article-title-font card-categories">
+              {% for category in author.categories %}
+                  <a class="link-primary" href="/category/{{ category }}">{{category}}</a>
+                  {% unless forloop.last %}{% endunless %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          <h3 class="uk-card-title article-title-font"><a href="{{ author.url | relative_url }}">{{ author.title }}</a></h3>
+          <div class="content-secondary">{{ author.excerpt }}</div>
+          <div class="card-meta">
+            <b>{{ site.strings.author_by | default: 'By' }} <a href="{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
+            <time class="uk-margin-small-left" datetime="{{ author.date | date_to_xmlschema }}">
+              {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+              {{ author.date | date: date_format }}
+            </time>
+          </div>
+        </div>
+    </div>
+  </article>
+
+  {% endfor %}
+
+  {% include paginate-blog.html %}
+
+</div>
+
