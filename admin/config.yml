@@ -4,7 +4,7 @@ backend:
   name: github
   repo: JAHqu2zyPA/new_blog # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: '/uploads'
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -17,8 +17,16 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tag', widget: 'string' }
-      - {
-        label: 'Author',
+      - { label: 'Thumbnail', name: 'image', widget: 'file' }
+      - { label: 'Categories', 
+        widget: 'select',
+        collection: 'category',
+        options:
+          -{label: [tag], value: [tag]},
+        value_field: 'title',
+      }
+      
+      - {label: 'Author',
         name: 'author',
         widget: 'relation',
         collection: 'authors',
@@ -42,5 +50,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Email', name: 'email', widget: 'string' }
       - { label: 'Website', name: 'website', widget: 'string' }
+      - { label: 'Twitter', name: 'twitter', widget: 'string' }
+      - { label: 'Facebook', name: 'facebook', widget: 'string' }
+      - { label: 'Linkedin', name: 'linkedin', widget: 'string' }
       - { label: 'Bio', name: 'bio', widget: 'string' }    
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Thumbnail', name: 'image', widget: 'file' }
+
