@@ -21,28 +21,28 @@ footer:
   - widget: links
     title: ABOUT
     links:
-      - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
-      - title: "Contribute"
-        url: /#/
-      - title: "Terms"
-        url: /#/
+      # - title: "About Us"
+      #   url: /#/
+      # - title: "Our Story"
+      #   url: /#/
+      # - title: "Contribute"
+      #   url: /#/
+      # - title: "Terms"
+      #   url: /#/
       - title: "Contact"
         url: /contact/
 
-  - widget: links
-    title: PRODUCTS
-    links:
-      - title: "Advertising"
-        url: /#/
-      - title: "Featured Story"
-        url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
+  # - widget: links
+  #   title: PRODUCTS
+  #   links:
+      # - title: "Advertising"
+      #   url: /#/
+      # - title: "Featured Story"
+      #   url: /#/
+      # - title: "Donations"
+      #   url: /#/
+      # - title: "Charity"
+      #   url: /#/
 
   - widget: categories
     title: CATEGORIES
@@ -54,4 +54,4 @@ footer:
 
   - widget: about
     # content: Content of some sort..
-    copyright: true
+    copyright: false
