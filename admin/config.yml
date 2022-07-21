@@ -18,11 +18,11 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tag', widget: 'string' }
       - { label: 'Thumbnail', name: 'image', widget: 'file' }
-      - { label: 'Categories', 
+      - { label: 'Categories',
+        name: 'category', 
         widget: 'select',
         collection: 'category',
-        options:
-          -{label: [tag], value: [tag]},
+        options: [tag],
         value_field: 'title',
       }
       
