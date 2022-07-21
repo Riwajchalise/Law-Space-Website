@@ -12,20 +12,13 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tag', widget: 'string' }
       - { label: 'Thumbnail', name: 'image', widget: 'file' }
-      - { label: 'Categories',
-        name: 'category', 
-        widget: 'select',
-        collection: 'category',
-        options: [tag],
-        value_field: 'title',
-      }
-      
+      - { label: 'Category', name: 'categories', widget: 'string' }     
       - {label: 'Author',
         name: 'author',
         widget: 'relation',
