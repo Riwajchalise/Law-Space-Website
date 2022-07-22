@@ -1,7 +1,7 @@
 ---
 layout: author
 name: austin
-username: Austin Kocher
+username: austin
 title: Austin Clochar
 email: austin@gmail.co
 website: Kocher.com

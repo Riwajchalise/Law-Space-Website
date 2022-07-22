@@ -11,13 +11,12 @@ layout: full
 {% include section-spotlight.html title="Spotlight" %}
 
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with what is happening in the city." button_text="Support Us" %}
 
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
 
 
-{% include section-ad.html title="Advertisement" image="https://via.placeholder.com/800x180/f4f4f4/fff.png?text=+" url="#" blank="true" %}
+<!-- {% include section-ad.html title="Advertisement" image="https://via.placeholder.com/800x180/f4f4f4/fff.png?text=+" url="#" blank="true" %} -->
 
 
 {% include section-authors.html title="Our Contributors" %}
