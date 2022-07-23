@@ -1,0 +1,4 @@
+---
+tag: test
+premlink: /test
+---
