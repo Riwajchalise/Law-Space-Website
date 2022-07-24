@@ -1,11 +1,13 @@
 {% if include.email %}
-  <form class="uk-form-stacked uk-margin-medium" method="POST" action="https://formspree.io/{{ include.email }}" accept-charset="UTF-8">      
+  <form class="uk-form-stacked uk-margin-medium" method="POST" action="https://formspree.io/{{ include.email }}" accept-charset="UTF-8">
+      
       <div class="uk-margin-medium-bottom">
           <label class="uk-form-label uk-margin-small-bottom" for="email">Email</label>
           <div class="uk-form-controls">
               <input id="email" class="uk-input uk-form-large uk-border-rounded" name="_replyto" type="email" required>
           </div>
       </div>
+
       <div class="uk-margin-medium-bottom">
           <label class="uk-form-label uk-margin-small-bottom" for="message">Message</label>
           <div class="uk-form-controls">
