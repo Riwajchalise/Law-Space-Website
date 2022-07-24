@@ -1,4 +1,4 @@
 ---
-tag: test
-premlink: /test
+tag: articles
+premlink: /crticles
 ---
