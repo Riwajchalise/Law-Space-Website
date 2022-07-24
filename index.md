@@ -21,8 +21,8 @@ layout: full
 
 {% include section-authors.html title="Our Contributors" %}
 
-
-{% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %}
+<!-- 
+{% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %} -->
 
 
 {% include section-cta.html title="Want To Contribute?" text="We are looking for writers from all walks of life to contribute to out blog, if you have something to say get in touch." button_text="Contact Us" button_url="/contact/" blank="true" %}

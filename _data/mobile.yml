@@ -2,5 +2,8 @@
 - title: Home
   url: /
 
-- title: Blog
+- title: All Posts
   url: /blog/
+
+- title: Authors
+  url: /authors/

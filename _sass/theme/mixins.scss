@@ -270,7 +270,8 @@ header .uk-sticky-fixed {
   }
     .article-title-font {
       font-family: $aticle-title-font-family;
-      text-transform: uppercase;
+      text-transform: capitalize;
+      font-weight: bold;
     }
     .article-title-spacing {
       letter-spacing: $aticle-title-letter-spacing;
@@ -309,6 +310,8 @@ header .uk-sticky-fixed {
     &:hover {
       color: $color-dark;
     }
+    font-weight: bold;
+
   }
     .font-smoothing {
         -webkit-font-smoothing: antialiased;

@@ -21,15 +21,15 @@ footer:
   - widget: links
     title: ABOUT
     links:
-      # - title: "About Us"
-      #   url: /#/
-      # - title: "Our Story"
-      #   url: /#/
-      # - title: "Contribute"
-      #   url: /#/
+      - title: "Editorial Team"
+        url: /editorial-team/
+      - title: "Our Purpose"
+        url: /our-purpose/
+      - title: "Write For Us"
+        url: /write-for-us/
       # - title: "Terms"
       #   url: /#/
-      - title: "Contact"
+      - title: "Contact Us"
         url: /contact/
 
   # - widget: links
