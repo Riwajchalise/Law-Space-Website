@@ -19,7 +19,7 @@ paginate:           7 # Number of posts displayed on blog page
 paginate_path:      "/blog/:num/" # Blog path
 google_analytics:   # Google analytics code, get your code here https://www.google.com/analytics/
 disqus:
-  shortname:        lawandspace # Disqus comments shortname, requires Disqus account https://disqus.com/
+  shortname:        https-lawandspace-com # Disqus comments shortname, requires Disqus account https://disqus.com/
 
 instagram_accesstoken: 
 
