@@ -1,4 +1,4 @@
 ---
 tag: articles
-premlink: /crticles
+premlink: /articles
 ---

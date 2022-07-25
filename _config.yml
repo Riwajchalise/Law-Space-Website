@@ -6,7 +6,7 @@
 
 # Site settings
 title:              Law & Space (un)Journal
-description:        Magazine Jekyll theme for writers and bloggers.
+description:        
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:

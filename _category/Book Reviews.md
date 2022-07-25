@@ -1,4 +1,4 @@
 ---
-tag: book-reviews
+tag: Book Reviews
 premlink: /book-reviews
 ---

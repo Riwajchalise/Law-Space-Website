@@ -29,8 +29,8 @@ footer:
         url: /write-for-us/
       # - title: "Terms"
       #   url: /#/
-      - title: "Contact Us"
-        url: /contact/
+      # - title: "Contact Us"
+      #   url: /contact/
 
   # - widget: links
   #   title: PRODUCTS

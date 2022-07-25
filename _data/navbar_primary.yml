@@ -19,17 +19,15 @@ center:
   
 
 
-  # - title: Pages
-  #   dropdown:
-  #     - title: Blog
-  #       url: /blog/
-  #     - title: Contact
-  #       url: /contact/
-  #     - title: Sidebar Left
-  #       url: /sidebar-left/
-  #     - title: Sidebar Right
-  #       url: /sidebar-right/
-  #     - title: 404
-  #       url: /404/
+  - title: Categories
+    dropdown:
+      - title: Articles
+        url: /category/articles/
+      - title: Book Reviews
+        url: /category/Book Reviews/
+      - title: Conferences
+        url: /category/conferences/
+      - title: Profiles
+        url: /category/profiles/     
 
 right:
