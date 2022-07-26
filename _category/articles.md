@@ -1,4 +1,4 @@
 ---
 tag: articles
-premlink: /articles
+premlink: /articles-try
 ---

@@ -25,7 +25,7 @@ disqus:
 instagram_accesstoken: 
 
 footer:             # Default footer image settings
-  copyright:        Made by <a href="https://unbound.studio/">human</a> in Bratislava, Slovakia.
+  copyright:        
 
 # navbar settings
 navbar_primary:

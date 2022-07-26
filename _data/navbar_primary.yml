@@ -11,14 +11,6 @@ center:
   - title: Authors
     url: /authors/
 
-  # - title: Our Purpose
-  #   url: /our-purpose/
-
-  # - title: Contact
-  #   url: /contact/
-  
-
-
   - title: Categories
     dropdown:
       - title: Articles

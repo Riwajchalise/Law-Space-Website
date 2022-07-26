@@ -1,6 +1,7 @@
 ---
 title:          Tom Acosta
 username:       tom
+featured:       true
 image:          https://source.unsplash.com/iFgRcqHznqg/150x150.jpg
 bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
 email:          me@mysite.com
