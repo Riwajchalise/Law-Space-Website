@@ -3,7 +3,7 @@ title: Our First Post!!
 image: https://source.unsplash.com/UOxMPRPUTOA/1000x750
 categories: [articles]
 tag: [featured]
-author: tom
+author: austin
 ---
 
 Into present as we from control as dedicated times of the in distribution you it rationale if which avoid worries can conduct, their design at you screen kind.
