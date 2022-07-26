@@ -6,7 +6,7 @@
 
 # Site settings
 title:              Law & Space (un)Journal
-description:        
+description:
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
@@ -20,12 +20,12 @@ paginate_path:      "/blog/:num/" # Blog path
 google_analytics:   G-EYL39L1ZBW # Google analytics code, get your code here https://www.google.com/analytics/
 disqus:
   shortname:        https-lawandspace-com # Disqus comments shortname, requires Disqus account https://disqus.com/
-  
 
-instagram_accesstoken: 
+
+instagram_accesstoken:
 
 footer:             # Default footer image settings
-  copyright:        
+  copyright:
 
 # navbar settings
 navbar_primary:
@@ -43,19 +43,19 @@ social_share:
 
 # Social networks
 social_networks:
-  email:          legalgeographysg@gmail.com
-  website:        
-  facebook:         
-  flickr:         
-  dribbble:       
-  github:         
-  reddit:         
-  instagram:        
-  linkedin:       
-  pinterest:      
+  email:          lawandspacejournal@gmail.com
+  website:
+  facebook:
+  flickr:
+  dribbble:
+  github:
+  reddit:
+  instagram:
+  linkedin:
+  pinterest:
   twitter:          https://twitter.com/lawandspace
-  vimeo:          
-  youtube:              
+  vimeo:
+  youtube:
 
 # Strings
 strings:
@@ -108,7 +108,7 @@ defaults:
       type: pages
     values:
       layout: page
-      sidebar: 
+      sidebar:
   # _authors
   - scope:
       path: ""
