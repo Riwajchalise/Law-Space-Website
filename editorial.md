@@ -4,21 +4,16 @@ title: Editorial Team
 permalink: /editorial-team/
 ---
 
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+Meet out editorial team.
 
-Ut malesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+{{TOC}}
 
+### Austin Kocher
 
-### Team Member 1
-{% include image.html img="https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659652_960_720.png" alt="Alt for image" %}
+<!--- ![](/uploads/austinkocher.jpg) --->
 
-Mesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+Dr. Austin Kocher is an Assistant Research Professor in the Newhouse School of Public Communication and a researcher with the Transactional Research Access Clearinghouse (TRAC), a research institute at Syracuse University that uses Freedom of Information Act requests to study the federal government. Key areas of Kocher’s current research at TRAC include mapping and analyzing large federal data sets related to immigration detention, enforcement, and deportation, the immigration court system, and trends within the federal criminal and civil courts.
 
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+Kocher’s research interests focus on the political and legal geographies of racialized policing practices, local immigration enforcement, and the immigration court system. His ongoing work interrogates the legal rationalities and everyday practices of producing “illegalized” immigrants through the US immigration court system, and he uses cartographic, ethnographic, and quantitative methodologies to examine how the immigration courts link up with local immigration enforcement on the ground. His work also examines the strategies and impact of grassroots immigrant rights and worker rights movements that contest deportation as a tool of social and labor control.
 
-### Team Member 2
-{% include image.html img="http://rcshahpur.com/wp-content/uploads/2018/09/Dummy3.png" alt="Alt for image" %}
-
-Mesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+He is the founding editor of the Law & Space (un)Journal

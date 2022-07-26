@@ -1,7 +1,4 @@
 
-## First of All I Would like to Thank You for Your Purchase, You Are Awesome!
+## Law and Space (un)Journal
 
-### Documentation
-Product documentation is available online [https://docs.unbound.studio/etoile-writer-blogger-jekyll-theme/s](https://docs.unbound.studio/etoile-writer-blogger-jekyll-theme/s). 
-
-# new_blog
+This Github repository is the home of the website for the **Law & Space (un)Journal**, a project of Dr. Austin Kocher and a team of other researchers whose work intersects with legal geography. 
