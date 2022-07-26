@@ -1,9 +1,12 @@
 ---
 title: Best tech companies to work for in 2019
+tag:
+  - spotlight
 image: https://source.unsplash.com/wawEfYdpkag/1000x750
-categories: [articles]
-tag: [spotlight]
+categories:
+  - articles
 author: john
+date: 2022-07-26T14:35:17.453Z
 ---
 
 Into present as we from control as dedicated times of the in distribution you it rationale if which avoid worries can conduct, their design at you screen kind.
