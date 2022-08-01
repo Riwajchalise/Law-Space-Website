@@ -3,7 +3,7 @@ title: Join the Next Carceral Geography Conference in December 2022
 image: carceralimg.jpg
 categories: [conferences]
 tag: [featured]
-author: austin
+author: "Austin Kocher"
 ---
 
 The 5th International Conference for Carceral Geography will be held in Australia as a two-day hybrid event (in-person and online) hosted by the University of Melbourne, 14-15 December 2022. The conference theme for 2022 is Confinement: spaces and practices of care and control.
