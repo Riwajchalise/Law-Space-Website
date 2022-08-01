@@ -13,6 +13,7 @@ Sarah Klosterkamp, University of Bonn<br/>
 Julia Sizek, University of California-Berkeley<br/>
 
 ## Advisory Board
+Nick Blomley, Simon Fraser University<br/>
 Irus Braverman, University at Buffalo Law School<br/>
 Sandy Kedar, University of Haifa<br/>
 Monica Varsanyi, CUNY Graduate Center<br/>
