@@ -9,6 +9,7 @@ Austin Kocher, Syracuse University<br/>
 
 ## Editorial Team
 Shoukia van Beek, University of Victoria<br/>
+Alida Cantor, Portland State University<br/>
 Sarah Klosterkamp, University of Bonn<br/>
 Julia Sizek, University of California-Berkeley<br/>
 
