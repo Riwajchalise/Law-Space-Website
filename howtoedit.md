@@ -39,3 +39,9 @@ Jekyll runs on a computer, not in the cloud. (There are ways around this, but we
 Text files that represent individual pages (i.e. our Purpose page) or individual blog posts (just the body of the post, not the heading information) can be edited without rebuilding the website.
 
 However, Jekyll uses other information contained in the text files to build parts of the website. For instance, each blog post has a "heading" area that includes metadata about the post, such as the author name, the title, the date, etc. That information must be formatted in a very specific way (e.g. using YAML syntax) and the consequences of changing that information affect not just one file but other files on the website. Therefore, you are strongly discouraged from editing that information without additional conversation.
+
+# Website Conventions
+
+The following conventions should be used when creating a new post.
+- The text file for a post should start with the date of the post formatted as follows: "YYYY-MM-DD-title-title-title.md"
+- all files associated with that post should be stored in a folder specifically for that post and the titles formatted using the same date format up front followed by a minimal description or figure number. (It may be advantageous to change this to a purely descriptive file name if we decide we want to use images more than once? Undecided.)
