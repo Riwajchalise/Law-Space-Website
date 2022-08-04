@@ -2,7 +2,7 @@
 title: Join the Next Carceral Geography Conference in December 2022
 image: carceralimg.jpg
 categories: [conferences]
-tag: [featured]
+tag: [featured, spotlight]
 author: "Austin Kocher"
 ---
 
