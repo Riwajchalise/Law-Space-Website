@@ -21,4 +21,4 @@ Dominique Moran, University of Birmingham<br/>
 Monica Varsanyi, CUNY Graduate Center<br/>
 
 ## Web Developer
-Riwaj Chalise, Software Engineer [(website)](https://riwajchalise.com.np/)
+[(Riwaj Chalise)](https://riwajchalise.com.np/), Software Engineer
