@@ -13,7 +13,7 @@ Extreme drought is ravaging much of the Western United States as water reservoir
   <img src="/uploads/2022-08-05-post/2022-08-05-figure1.png">
 </p>
 
-<p style="font-size:90%; text-align:center;">U.S. drought conditions as of July 26, 2022. Source: <a href="https://droughtmonitor.unl.edu/CurrentMap.aspx">U.S. Drought Monitor</a></p>
+<p style="font-size:90%; text-align:center;">U.S. drought conditions, summer 2022. Source: <a href="https://droughtmonitor.unl.edu/CurrentMap.aspx">U.S. Drought Monitor</a></p>
 
 Legal political ecology, which integrates questions of law, political economy, and environmental issues, provides an important and useful toolkit for answering this question and developing a critical understanding of contemporary social-ecological problems like drought.
 
