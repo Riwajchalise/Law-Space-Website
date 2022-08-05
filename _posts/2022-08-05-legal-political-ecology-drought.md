@@ -19,11 +19,11 @@ Legal political ecology, which integrates questions of law, political economy, a
 
 Although shrinking water resources may seem like a natural phenomenon, a drought is not just a meteorological condition. While it is clearly tied to precipitation patterns, drought is not just about a lack of rain.
 
-Drought can be better understood as the relationship between how much water is available and how much water is expected to support the needs of human and nonhuman water users. And, when water dries up, it doesn&#39;t dry up the same for everyone (or every animal). Instead, water availability during drought is experienced differently depending on access, which is in turn related to questions of both law and political economy.
+Drought can be better understood as the relationship between how much water is available and how much water is expected to support the needs of human and nonhuman water users. And, when water dries up, it doesn&#8217;t dry up the same for everyone (or every animal). Instead, water availability during drought is experienced differently depending on access, which is in turn related to questions of both law and political economy.
 
 Experiences of drought are inherently related to legal questions. How is water allocated, where, and to whom? Who is allowed to access and use what quantities of what water in what place? If there is less water than expected, who gets it and who loses out?
 
-In practice, these questions are answered by water law. For example, in the Western United States, the "[prior appropriation doctrine](https://extension.unr.edu/publication.aspx?PubID=3750)," developed over a century ago, allocates water using a &#39;first in time, first in right&#39; system that gives more secure rights to earlier (i.e. more senior) water users.
+In practice, these questions are answered by water law. For example, in the Western United States, the "[prior appropriation doctrine](https://extension.unr.edu/publication.aspx?PubID=3750)," developed over a century ago, allocates water using a 'first in time, first in right&#8217; system that gives more secure rights to earlier (i.e. more senior) water users.
 
 What this means is that some people are given greater access to water, while others have less access. As a result, drought, as a phenomenon that is mediated by law, is experienced differently by various communities of humans and nonhumans, as the following examples illustrate.
 
@@ -33,13 +33,13 @@ Some people with resources and privilege are able to maintain water access even 
 
 One might expect that during times of severe drought, alfalfa farmers would move away from producing such a high-water-use crop. Our research found the opposite to be true. In fact, during a time of severe drought, we found that alfalfa production actually increased in some areas of California with particularly secure water access via prior appropriation.
 
-This finding highlighted that, when it came to farmers&#39; experiences of drought, legal access to water through antiquated systems of prior appropriation water rights mattered more than actual precipitation patterns.
+This finding highlighted that, when it came to farmers&#8217; experiences of drought, legal access to water through antiquated systems of prior appropriation water rights mattered more than actual precipitation patterns.
 
 <p align="center">
   <img src="/uploads/2022-08-05-post/2022-08-05-figure2.png">
 </p>
 
-<p style="font-size:90%; text-align:center;">Map shows Southern California&#39;s alfalfa production lands in 2014; graphs (right) show changes to alfalfa production from 2011–2017. Source: <a href="https://www.tandfonline.com/doi/full/10.1080/00330124.2022.2075409">Cantor et al, 2022.</a></p>
+<p style="font-size:90%; text-align:center;">Map shows Southern California&#8217;s alfalfa production lands in 2014; graphs (right) show changes to alfalfa production from 2011–2017. Source: <a href="https://www.tandfonline.com/doi/full/10.1080/00330124.2022.2075409">Cantor et al, 2022.</a></p>
 
 There are others who are quick to experience water insecurity when water resources dwindle. Disparities in water access are also directly tied to money and resources, bringing questions of political economy to the foreground.
 
