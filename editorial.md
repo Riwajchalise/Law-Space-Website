@@ -16,6 +16,7 @@ Julia Sizek, University of California-Berkeley<br/>
 ## Advisory Board
 Nick Blomley, Simon Fraser University<br/>
 Irus Braverman, University at Buffalo Law School<br/>
+Jean Carmalt, City University of New York<br/>
 Sandy Kedar, University of Haifa<br/>
 Dominique Moran, University of Birmingham<br/>
 Monica Varsanyi, CUNY Graduate Center<br/>
