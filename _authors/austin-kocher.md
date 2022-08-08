@@ -2,7 +2,7 @@
 title:          Austin Kocher
 username:       "Austin Kocher"
 featured:       true
-image:          /uploads/profilepics/austinkocher.jpg
+image:          profilepics/austinkocher.jpg
 bio:            I study America's immigration enforcement system.
 email:          ackocher@syr.edu
 website:        https://austinkocher.com

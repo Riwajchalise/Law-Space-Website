@@ -2,7 +2,7 @@
 title:          Sarah Klosterkamp
 username:       "Sarah Klosterkamp"
 featured:       false
-image:          /uploads/profilepics/sarahklosterkamp.jpeg
+image:          profilepics/sarahklosterkamp.jpeg
 bio:            
 email:
 website:        https://www.geographie.uni-bonn.de/forschung/ags/ag-marquardt/team/sarah-klosterkamp-m.a.-m.ed
