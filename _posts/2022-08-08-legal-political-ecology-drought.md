@@ -1,6 +1,6 @@
 ---
 title: The Unnatural Legal Geographies of the Current US ‘Megadrought’
-image: /2022-08-05-post/2022-08-05-banner.jpg
+image: /2022-08-08-post/2022-08-08-banner.jpg
 categories: [articles]
 published: true
 tag: [featured]
@@ -10,7 +10,7 @@ author: "Alida Cantor"
 Extreme drought is ravaging much of the Western United States as water reservoirs and snowpack decline to dangerous levels. As panicked water managers seek immediate solutions to the impending crisis, the current &#8220;[megadrought](https://www.scientificamerican.com/article/ongoing-megadrought-puts-the-west-in-uncharted-waters/)&#8221; also raises an important but often ignored question: what role does law play in creating and exacerbating unequal access to shrinking water resources?
 
 <p align="center">
-  <img src="/uploads/2022-08-05-post/2022-08-05-figure1.png">
+  <img src="/uploads/2022-08-08-post/2022-08-08-figure1.png">
 </p>
 
 <p style="font-size:90%; text-align:center;">U.S. drought conditions, summer 2022. Source: <a href="https://droughtmonitor.unl.edu/CurrentMap.aspx">U.S. Drought Monitor</a></p>
@@ -36,7 +36,7 @@ One might expect that during times of severe drought, alfalfa farmers would move
 This finding highlighted that, when it came to farmers&#8217; experiences of drought, legal access to water through antiquated systems of prior appropriation water rights mattered more than actual precipitation patterns.
 
 <p align="center">
-  <img src="/uploads/2022-08-05-post/2022-08-05-figure2.png">
+  <img src="/uploads/2022-08-08-post/2022-08-08-figure2.png">
 </p>
 
 <p style="font-size:90%; text-align:center;">Map shows Southern California&#8217;s alfalfa production lands in 2014; graphs (right) show changes to alfalfa production from 2011–2017. Source: <a href="https://www.tandfonline.com/doi/full/10.1080/00330124.2022.2075409">Cantor et al, 2022.</a></p>
