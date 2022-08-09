@@ -10,6 +10,6 @@ We are particularly interested in short summaries of ongoing research projects (
 
 Submissions do not have a word limit, but we aim for articles that are between 500 and 1,200 words. Our tone is intelligent but readable, with short, punchy paragraphs, selective citations, and a clear lede that will attract academic and non-academic readers alike.
 
-If you would like to publish a post through Law & Space, reach out directly to Austin Kocher at ackocher@syr.edu. Pitches are encouraged rather than full submissions.
+If you would like to publish a post through Law & Space, reach out directly to Austin Kocher at ackocher@syr.edu or lawandspacejournal@gmail.com. Pitches are encouraged rather than full submissions.
 
 Please note that this project is currently in an early phase of development and publishing protocols and pathways are currently being developed.
