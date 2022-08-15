@@ -1,3 +1,6 @@
+---
+permalink: /how-to-write/
+---
 This file provides an outline of the style and structure for articles.
 
 # General Remarks on Style

@@ -1,3 +1,6 @@
+---
+permalink: /how-to-edit/
+---
 This file provides an outline of documentation specifically for journal editors.
 
 # Preliminary Remarks

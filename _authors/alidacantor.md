@@ -2,7 +2,7 @@
 title:          Alida Cantor
 username:       "Alida Cantor"
 featured:       true
-image:          profilepics/alidacantor.jpg
+image:          /uploads/profilepics/alidacantor.jpg
 bio:            Assistant Professor of Geography at Portland State University.
 email:          acantor@pdx.edu
 website:        https://sites.google.com/pdx.edu/alidacantor
