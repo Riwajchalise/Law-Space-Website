@@ -7,7 +7,7 @@ tag: [featured]
 author: "Carly Griffith"
 ---
 
-If you're a graduate student whose work intersects with questions of law and space, consider submitting a paper for the annual "Graduate Voices in the Lawscape" sessions at the [AAG conference](https://www.aag.org/events/aag2023/) sponsored by the [Legal Geography Specialty Group](https://www.legalgeography.com/). These sessions will be hosted virtually at the AAG conference in 2023. Submission deadline is October 15, 2022.
+If you're a graduate student whose work intersects with questions of law and space, consider submitting a paper for the annual "Graduate Voices in the Lawscape" sessions at the [AAG conference](https://www.aag.org/events/aag2023/) sponsored by the [Legal Geography Specialty Group](https://www.legalgeography.com/). These sessions will be hosted hybrid (in-person & virtual) at the AAG conference in 2023. Submission deadline is October 15, 2022.
 
 ### Session description
 
