@@ -3,7 +3,7 @@ title: The Unnatural Legal Geographies of the Current US ‘Megadrought’
 image: /uploads/2022-08-08-post/2022-08-08-banner.jpg
 categories: [articles]
 published: true
-tag: [featured]
+tag: [spotlight]
 author: "Alida Cantor"
 ---
 
