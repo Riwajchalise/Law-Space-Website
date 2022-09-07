@@ -2,7 +2,7 @@
 layout: page
 title: Write For Us!
 permalink: /write-for-us/
-image: /uploads/generalimages/write-for-us.jpg
+image: /uploads/generalimages/gradvoices.jpg
 ---
 
 Law & Space (un)Journal accepts a wide variety of short blog-style articles written with academic integrity but intended for a broad audience. (See the [Border Criminologies](https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies) blog at Oxford University for inspiration.)
