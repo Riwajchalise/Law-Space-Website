@@ -4,15 +4,6 @@ layout: default
 
 {% assign sidebar = page.sidebar | default: 'full' %}
 
-{% if page.image %}
-<div class="uk-container uk-container-small uk-margin-large-bottom">
-  <div class="uk-cover-container">
-    <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" data-uk-cover>
-    <canvas width="1000" height="500"></canvas>
-  </div>
-</div>
-{% endif %}
-
 {% if sidebar == 'left' %}
   <div class="uk-container uk-container-small uk-margin-large">
     <div class="uk-flex" data-uk-grid>
@@ -32,7 +23,15 @@ layout: default
     {% endunless %}
 
     <div class="content-primary">
-        {{ content }}
+      {% if page.image %}
+      <div class="uk-container uk-container-small uk-margin-large-bottom">
+        <div class="uk-cover-container">
+        <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" data-uk-cover>
+        <canvas width="1000" height="500"></canvas>
+      </div>
+    </div>  
+      {% endif %}  
+      {{ content }}
     </div>
 
   </article>
