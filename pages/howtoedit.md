@@ -49,7 +49,7 @@ The following conventions should be used when creating a new post.
 - The text file for a post should start with the date of the post formatted as follows: "YYYY-MM-DD-title-title-title.md"
 - all files associated with that post should be stored in a folder specifically for that post and the titles formatted using the same date format up front followed by a minimal description or figure number. (It may be advantageous to change this to a purely descriptive file name if we decide we want to use images more than once? Undecided.)
 
-# Technical functionalities
+# Technical Issues
 
 ## Featuring Images on Pages (not blog posts)
 
