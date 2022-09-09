@@ -53,4 +53,12 @@ The following conventions should be used when creating a new post.
 
 ## Featuring Images on Pages (not blog posts)
 
-Unlike for a blog post, images that are referenced in the header information for a page (i.e. image: /file.jpg) will not appear as a featured image. Rather, the image must be referenced in the content of the post itself (i.e. ![Image File](/file.jpg)). Facebook and LinkedIn seem to be okay with finding this image and using it to populate the webpage preview on their platforms. Twitter, however, cannot do this. For this reason, even when adding multiple images to a page of the website (not for a blog post), be sure to include a reference to the image that you would like featured online by including the reference in the YAML front matter.
+Unlike for a blog post, images that are only referenced in the header information for a page as follows
+
+```image: /file.jpg```
+
+will not appear as a featured image. Rather, the image must be referenced in the content of the post itself:
+
+```![Image File](/file.jpg)```
+
+Facebook and LinkedIn seem to be okay with finding this image and using it to populate the webpage preview on their platforms. Twitter, however, cannot do this. For this reason, even when adding multiple images to a page of the website (not for a blog post), be sure to include a reference to the image that you would like featured online by including the reference in the YAML front matter.
