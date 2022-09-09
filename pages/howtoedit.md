@@ -48,3 +48,9 @@ However, Jekyll uses other information contained in the text files to build part
 The following conventions should be used when creating a new post.
 - The text file for a post should start with the date of the post formatted as follows: "YYYY-MM-DD-title-title-title.md"
 - all files associated with that post should be stored in a folder specifically for that post and the titles formatted using the same date format up front followed by a minimal description or figure number. (It may be advantageous to change this to a purely descriptive file name if we decide we want to use images more than once? Undecided.)
+
+# Technical functionalities
+
+## Featuring Images on Pages (not blog posts)
+
+Unlike for a blog post, images that are referenced in the header information for a page (i.e. image: /file.jpg) will not appear as a featured image. Rather, the image must be referenced in the content of the post itself (i.e. ![Image File](/file.jpg)). Facebook and LinkedIn seem to be okay with finding this image and using it to populate the webpage preview on their platforms. Twitter, however, cannot do this. For this reason, even when adding multiple images to a page of the website (not for a blog post), be sure to include a reference to the image that you would like featured online by including the reference in the YAML front matter.
