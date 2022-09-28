@@ -1,6 +1,6 @@
 ---
 title: Call for Papers - Legal Geographies of the Courts at AAG 2023
-image: /uploads/2022-09-28-CFP/courtroomimage.jpg
+image: /uploads/2022-09-28-CFP/courtimage.jpg
 categories: [conferences]
 published: true
 tag: [featured]
