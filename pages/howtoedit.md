@@ -62,3 +62,9 @@ will not appear as a featured image. Rather, the image must be referenced in the
 ```![Image File](/file.jpg)```
 
 Facebook and LinkedIn seem to be okay with finding this image and using it to populate the webpage preview on their platforms. Twitter, however, cannot do this. For this reason, even when adding multiple images to a page of the website (not for a blog post), be sure to include a reference to the image that you would like featured online by including the reference in the YAML front matter.
+
+Also note that when including an image in the header, the full code is:
+
+```image: /uploads/2022-09-28-CFP/courtroomimage.jpg```
+
+I have accidentally failed to include the initial ```/``` and the image will sometimes and load and sometimes not. Be sure to include the opening forward slash. This is sometimes a problem when you use the "copy this path" option in Atom, because it will not copy the initial slash.
