@@ -3,7 +3,7 @@ title: Call for Graduate Papers on Legal Geography at AAG 2023
 image: /uploads/2022-08-29-post/gradvoices2019.jpg
 categories: [conferences]
 published: true
-tag: [featured]
+tag: [spotlight]
 author: "Carly Griffith"
 ---
 
