@@ -68,3 +68,7 @@ Also note that when including an image in the header, the full code is:
 ```image: /uploads/2022-09-28-CFP/courtroomimage.jpg```
 
 I have accidentally failed to include the initial ```/``` and the image will sometimes and load and sometimes not. Be sure to include the opening forward slash. This is sometimes a problem when you use the "copy this path" option in Atom, because it will not copy the initial slash.
+
+## Translating Embedded Links in Word to Markdown
+
+Authors may send articles with embedded urls, which takes time to manually add to article files using Markdown syntax--especially if there is a long list of articles. An easier way to handle this is to use an online Word->Markdown converter, such as this one: [https://products.aspose.app/words/conversion/word-to-md](https://products.aspose.app/words/conversion/word-to-md). Although converters should be used with caution because they may not always produce correct Markdown, this one at least does seem to produce correctly formatted links, which saves a lot of time.
