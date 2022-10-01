@@ -3,7 +3,7 @@ title: Legal Ecologies of Climate Change: How Farmers are Advancing Environmenta
 image: /uploads/2022-10-01-post/climatechange.jpg
 categories: [articles]
 published: false
-tag:
+tag: [featured]
 author: "Sarah Klosterkamp"
 ---
 
