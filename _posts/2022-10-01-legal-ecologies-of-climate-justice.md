@@ -1,5 +1,5 @@
 ---
-title: Legal Ecologies of Climate Change: How Farmers are Advancing Environmental Justice in the German Courts
+title: "Legal Ecologies of Climate Change&#58; How Farmers are Advancing Environmental Justice in the German Courts"
 image: /uploads/2022-10-01-post/climatechange.jpg
 categories: [articles]
 published: true
