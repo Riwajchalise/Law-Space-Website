@@ -376,7 +376,8 @@ $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) 
 
 .uk-logo {
     font-size: $logo-font-size;
-    font-family: $logo-font-family;
+    font-family: "Tangerine", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
     color: $logo-color;
     /* 1 */
     text-decoration: none;
