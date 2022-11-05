@@ -3,6 +3,11 @@
     <a href="{{ site.social_networks.twitter }}" data-uk-icon="icon: twitter; ratio: {{ include.icon_ratio }}" class="uk-icon-link uk-icon" target="_blank"></a>
 </div>
 {% endif %}
+{% if site.social_networks.mastodon %}
+<div class="uk-first-column">
+    <a href="{{ site.social_networks.mastodon }}" data-uk-icon="icon: fa-mastodon ; ratio: {{ include.icon_ratio }}" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+{% endif %}
 {% if site.social_networks.facebook %}
 <div>
     <a href="{{ site.social_networks.facebook }}" data-uk-icon="icon: facebook; ratio: {{ include.icon_ratio }}" class="uk-icon-link uk-icon" target="_blank"></a>

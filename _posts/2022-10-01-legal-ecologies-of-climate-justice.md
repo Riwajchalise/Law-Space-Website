@@ -43,7 +43,7 @@ These lawsuits illustrate the potential for creative litigation to shape our sha
 
 ## For Further Reading
 
-### Climate Justice, Sustainability and Reparations
+## Climate Justice, Sustainability and Reparations
 
 - Bercht, A. L., Hein, J. und S. Klepp (Hrsg.) (2021): [ Climate and marine justice - debates and critical perspectives](https://gh.copernicus.org/articles/special_issue1054.html)(Special Issue). *Geographica Helvetica* 75/76.
 - Klepp, S. und C. Fröhlich (Hrsg.) (2020): [Migration and Conflict in a Global Warming Era: A Political Understanding of Climate Change](https://www.mdpi.com/journal/socsci/special_issues/migration_conflict_globalwarming) (Special Issue). Social Sciences 9 (5).

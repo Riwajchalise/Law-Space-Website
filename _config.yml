@@ -32,6 +32,8 @@ navbar_primary:
   sticky:           true
   social:           true
   search:           true
+  mastodon:         true
+
 
 # Social share buttons
 social_share:
@@ -52,6 +54,7 @@ social_networks:
   reddit:
   instagram:
   linkedin:
+  mastodon:         https://mastodon.social/@lawandspacejournal
   pinterest:
   twitter:          https://twitter.com/lawandspace
   vimeo:

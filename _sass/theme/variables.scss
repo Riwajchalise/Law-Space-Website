@@ -1,7 +1,7 @@
 // Modify primary template color
 $global-primary-background: #002497;
 // Modify body font
-$global-font-family: sans-serif; 
+$global-font-family: 'Lato', sans-serif; 
 // Modify article title font
 $aticle-title-font-family: serif;
 
@@ -35,12 +35,12 @@ $base-link-hover-text-decoration: none;
 $base-body-color: $color-dark;
 $base-hr-border: $global-border;
 
-$global-font-size: 16px;
+$global-font-size: 18px;
 $global-link-color: $global-secondary-background;
 $global-link-hover-color: $global-primary-background;
 $global-xxlarge-font-size: 2.074rem;
 $global-xlarge-font-size: 1.728rem;
-$global-large-font-size: 1.44rem;
+$global-large-font-size: 58px;
 $global-medium-font-size: 1.2rem;
 $global-small-font-size: 0.833rem;
 $global-xsmall-font-size: 0.75rem;
@@ -84,7 +84,7 @@ $card-body-padding-horizontal-l: $global-gutter;
 $card-body-padding-vertical-l: $global-gutter;
 
 $article-title-font-size: $global-xlarge-font-size;
-$article-title-font-size-m: 3rem;
+$article-title-font-size-m: 2rem;
 $article-title-line-height: 1.2;
 
 $article-meta-font-size: 1.0625rem;
