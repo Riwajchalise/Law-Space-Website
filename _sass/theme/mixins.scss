@@ -55,7 +55,7 @@
 
 @mixin hook-card-misc(){
   .card-title-small {
-      font-size: 1.75rem;
+      font-size: 2rem;
       line-height: 1.2;
       margin-bottom: 15px;
       margin-top: 0;
@@ -226,7 +226,7 @@ header .uk-sticky-fixed {
     position: relative;
     line-height: $lh-l;
     .uk-article-meta {
-      font-family: $aticle-title-font-family;
+      font-family: 'Lato', sans-serif;
     }
     figure {
       &[class*='uk-align'] {

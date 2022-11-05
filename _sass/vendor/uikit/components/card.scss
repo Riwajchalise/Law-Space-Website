@@ -43,7 +43,7 @@ $card-footer-padding-vertical:                  ($global-gutter / 2) !default;
 $card-footer-padding-horizontal-l:              $global-medium-gutter !default;
 $card-footer-padding-vertical-l:                round($global-medium-gutter / 2) !default;
 
-$card-title-font-size:                          $global-large-font-size !default;
+$card-title-font-size:                          2rem !default;
 $card-title-line-height:                        1.4 !default;
 
 $card-badge-top:                                $global-gutter !default;
@@ -185,7 +185,7 @@ $card-large-footer-padding-vertical-l:          round($global-large-gutter / 2) 
  ========================================================================== */
 
 .uk-card-title {
-    font-size: $card-title-font-size;
+    font-size: 2rem;
     line-height: $card-title-line-height;
     @if(mixin-exists(hook-card-title)) {@include hook-card-title();}
 }
