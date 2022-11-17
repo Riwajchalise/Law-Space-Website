@@ -3,7 +3,7 @@ title: Call for Papers - Legal Geographies of the Courts at AAG 2023
 image: /uploads/2022-09-28-CFP/courtimage.jpg
 categories: [conferences]
 published: true
-tag: [featured]
+tag:
 author: "Shoukia van Beek"
 ---
 The contemporary moment is a new one for the U.S. Supreme Court. With a conservative balance of judges, the Supreme Court is poised to shift not only decisions made in earlier eras, but the geographies of rights across the United States. While decisions during the 2021-2022 Court changed geographies of abortion access, jurisdiction over Native American reservations, and state control over gun rights, next year's docket includes voting rights.
