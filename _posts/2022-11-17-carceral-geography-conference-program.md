@@ -2,7 +2,7 @@
 title: Carceral Geography Conference Program Now Available
 image: /uploads/2022-11-17-carceralgeog/prison-bars.jpg
 categories: [conferences]
-tag: featured
+tag: 
 author: "Austin Kocher"
 ---
 
