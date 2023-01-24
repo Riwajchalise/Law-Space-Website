@@ -44,14 +44,7 @@ latest_title: The Authors
           {% endif %}
           <h3 class="uk-card-title article-title-font"><a href="{{ author.url | relative_url }}">{{ author.title }}</a></h3>
           <div class="content-secondary">{{ author.excerpt }}</div>
-          <div class="card-meta">
-            <b>{{ site.strings.author_by | default: 'By' }} <a href="{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
-            <time class="uk-margin-small-left" datetime="{{ author.date | date_to_xmlschema }}">
-              {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
-              {{ author.date | date: date_format }}
-            </time>
-          </div>
-        </div>
+           </div>
     </div>
   </article>
 
