@@ -2,7 +2,7 @@
 title: Now Available – Schedule for Graduate Voices in the Lawscape at the AAG in 2023
 image: /uploads/2023-01-17-gradvoices/denver.png
 categories: [conferences]
-tag: featured
+tag: 
 author: "Austin Kocher"
 ---
 
