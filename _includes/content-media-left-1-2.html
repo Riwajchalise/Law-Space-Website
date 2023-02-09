@@ -8,7 +8,7 @@
     <div class="uk-width-1-2@m uk-card-media-left media-1-2 uk-cover-container">
       {% if post.image %}
         <a href="{{ post.url | relative_url }}">
-          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-cover>
+          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="" data-uk-cover>
           <canvas width="600" height="450"></canvas>
         </a>
       {% endif %}
@@ -25,7 +25,26 @@
           {% endif %}
           <h3 class="uk-card-title uk-article-title article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <div class="card-meta">
-            <b>{{ site.strings.author_by | default: 'By' }} <a href="{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
+            {% assign authorCount = post.author | size %}
+            {% if authorCount == 0 %}
+                No author
+            {% elsif authorCount == 1 %}
+            {% assign author = site.authors | where: 'username', post.author | first %}
+            <b>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+            {% else %}
+                {% for auth in post.author %}
+                    {% if forloop.first %}
+                    {% assign author = site.authors | where: 'username', auth | first %}
+                    <b>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+                    {% elsif forloop.last %}
+                    {% assign author = site.authors | where: 'username', auth | first %}
+                    <b> and <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+                    {% else %}
+                    {% assign author = site.authors | where: 'username', auth | first %}
+                        , &nbsp <b> <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
             <time class="uk-margin-small-left" datetime="{{ post.date | date_to_xmlschema }}">
               {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
               {{ post.date | date: date_format }}
